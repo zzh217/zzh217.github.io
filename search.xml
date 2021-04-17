@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>自己动手写区块链（一）</title>
     <url>/2021/04/17/article-title/</url>
     <content><![CDATA[<h1 id="自己动手写区块链（一）"><a href="#自己动手写区块链（一）" class="headerlink" title="自己动手写区块链（一）"></a>自己动手写区块链（一）</h1><p>&emsp;&emsp;最近误打误撞误入币圈,血雨腥风，不忍直视。T_T（这篇文章本来早就写好的，结果中间耽搁了一段时间，没想到今天狗狗币也太夸张了一天200%0.0）</p>
 <p>&emsp;&emsp;但身为一名富有实践性好奇心的程序员决定搜搜资料，自己创造一个属于自己的区块链。</p>
@@ -23,6 +23,12 @@
 <p>&emsp;&emsp;友情提示：币圈有风险入圈需谨慎0.0</p>
 <p><em>ps:祭奠第248天，愿249天之后都是幸福。5LmW5LmW5oiR54ix5L2g5LiN56a75LiN5byD</em></p>
 ]]></content>
+      <categories>
+        <category>自己动手写区块链</category>
+      </categories>
+      <tags>
+        <tag>自己动手写区块链</tag>
+      </tags>
   </entry>
   <entry>
     <title>写在开始</title>
